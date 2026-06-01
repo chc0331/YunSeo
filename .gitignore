@@ -7,3 +7,6 @@ incoming/
 exports/work_clips/
 exports/audio_check.wav
 exports/yunseo_growth_video_draft_silent.mp4
+
+# Temporary Discord-uploaded source files copied into assets.
+photo_df_*

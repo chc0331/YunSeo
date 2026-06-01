@@ -1,10 +1,9 @@
 section,section_label,order,date,kind,source,asset
-00_opening,Opening,1,2024-12-31,photo,incoming/윤서성장영상/Screenshot_20241231_090838_KakaoTalk.jpg,assets/00_opening/001_2024-12-31_photo_Screenshot_20241231_090838_KakaoTalk.jpg
-00_opening,Opening,2,2025-05-01,photo,incoming/윤서성장영상/20250501_131559.jpg,assets/00_opening/002_2025-05-01_photo_20250501_131559.jpg
-00_opening,Opening,3,2025-05-01,photo,incoming/윤서성장영상/20250501_131609.jpg,assets/00_opening/003_2025-05-01_photo_20250501_131609.jpg
-00_opening,Opening,4,2025-05-01,photo,incoming/윤서성장영상/20250501_131620.jpg,assets/00_opening/004_2025-05-01_photo_20250501_131620.jpg
-00_opening,Opening,5,2025-05-10,photo,incoming/윤서성장영상/1746874512887-1.png,assets/00_opening/005_2025-05-10_photo_1746874512887-1.png
-00_opening,Opening,6,2025-05-17,photo,incoming/윤서성장영상/1747447851533.jpg,assets/00_opening/006_2025-05-17_photo_1747447851533.jpg
+00_opening,Opening,1,2025-05-16,photo,/Users/heecchoi/윤서/baby-growth-video/photo_df_1.jpg,/Users/heecchoi/윤서/baby-growth-video/assets/00_opening/001_2025-05-16_photo_ultrasound_1.jpg
+00_opening,Opening,2,2025-05-16,photo,/Users/heecchoi/윤서/baby-growth-video/photo_df_2.jpg,/Users/heecchoi/윤서/baby-growth-video/assets/00_opening/002_2025-05-16_photo_ultrasound_2.jpg
+00_opening,Opening,3,2025-05-16,photo,/Users/heecchoi/윤서/baby-growth-video/photo_df_3.jpg,/Users/heecchoi/윤서/baby-growth-video/assets/00_opening/003_2025-05-16_photo_ultrasound_3.jpg
+00_opening,Opening,4,2025-05-16,photo,/Users/heecchoi/윤서/baby-growth-video/photo_df_4.jpg,/Users/heecchoi/윤서/baby-growth-video/assets/00_opening/004_2025-05-16_photo_ultrasound_4.jpg
+00_opening,Opening,5,2025-05-16,photo,/Users/heecchoi/윤서/baby-growth-video/photo_df_5.jpg,/Users/heecchoi/윤서/baby-growth-video/assets/00_opening/005_2025-05-16_photo_ultrasound_5.jpg
 01_birth_newborn,Birth and newborn,1,2025-05-01,photo,incoming/윤서성장영상/20250501_131552.jpg,assets/01_birth_newborn/001_2025-05-01_photo_20250501_131552.jpg
 01_birth_newborn,Birth and newborn,2,2025-05-01,photo,incoming/윤서성장영상/20250501_131605.jpg,assets/01_birth_newborn/002_2025-05-01_photo_20250501_131605.jpg
 01_birth_newborn,Birth and newborn,3,2025-05-01,photo,incoming/윤서성장영상/20250501_131612.jpg,assets/01_birth_newborn/003_2025-05-01_photo_20250501_131612.jpg

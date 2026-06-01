@@ -5,8 +5,8 @@ incoming/
 
 # Temporary render artifacts.
 exports/work_clips/
-exports/audio_check.wav
-exports/yunseo_growth_video_draft_silent.mp4
+exports/*audio_check.wav
+exports/*_silent.mp4
 
 # Temporary Discord-uploaded source files copied into assets.
 photo_df_*
